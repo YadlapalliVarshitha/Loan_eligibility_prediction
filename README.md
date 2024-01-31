@@ -15,9 +15,9 @@ This project leverages machine learning to predict loan approval based on histor
 # Installation
 1. Clone the repository:
 
-   
-   git clone ``` https://github.com/YadlapalliVarshitha/Loan_eligibility_prediction.git ```
-   
+ ```  
+   git clone  https://github.com/YadlapalliVarshitha/Loan_eligibility_prediction.git 
+   ```
 3. Navigate to the project directory:
 
    ```
